@@ -6,18 +6,18 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
 
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Modifiqué el archivo
 
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+Un repositorio y seguidor de versiones en línea
 
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+Realizar un seguimeinto de las versiones de mi código
 
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
 
 
 ## 👤 Sobre mí
-Nombre:  
-Curso:  
+Nombre:  Profesanto
+Curso:  PD 1
